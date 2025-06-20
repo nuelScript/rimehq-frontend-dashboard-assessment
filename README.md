@@ -148,8 +148,7 @@ src/
 
 - Modular and reusable component structure
 - TypeScript for type safety and better DX
-- Custom hooks for complex state management
-- Separation of concerns with data, UI, and logic layers
+- Separation of concerns with data, UI, layers
 - Easy to extend and maintain codebase
 
 ## Performance Optimizations
