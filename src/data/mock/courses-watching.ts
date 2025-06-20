@@ -1,0 +1,32 @@
+export const courses = [
+  {
+    title: "Beginner's Guide to Becoming a Professional Front-End Developer",
+    category: "FRONT END",
+    instructor: "Leonardo samuel",
+    role: "Mentor",
+    thumbnail: "/assets/frontend.jpg",
+    instructorImage: "/assets/glasses-lady.svg",
+    progress: 75,
+    categoryColor: "bg-blue-100 text-blue-700",
+  },
+  {
+    title: "Optimizing User Experience with the Best UI/UX Design",
+    category: "UI/UX DESIGN",
+    instructor: "Bayo Salto",
+    role: "Mentor",
+    thumbnail: "/assets/ui.jpg",
+    instructorImage: "/assets/beards-guy.svg",
+    progress: 50,
+    categoryColor: "bg-purple-100 text-purple-700",
+  },
+  {
+    title: "Rebrand and Refresh Company Image",
+    category: "BRANDING",
+    instructor: "Padhang Satrio",
+    role: "Mentor",
+    thumbnail: "/assets/rebrand.jpg",
+    instructorImage: "/assets/man-hat.svg",
+    progress: 25,
+    categoryColor: "bg-pink-100 text-pink-700",
+  },
+];
