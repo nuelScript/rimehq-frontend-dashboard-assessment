@@ -119,7 +119,7 @@ src/
 
 ## Key Features
 
-### 🎨 **Design & UI**
+### **Design & UI**
 
 - Pixel-perfect recreation of the provided design
 - Fully responsive layout (mobile, tablet, desktop)
@@ -127,7 +127,7 @@ src/
 - Consistent color palette and typography
 - Custom rounded corners and shadows
 
-### ⚡ **Animations & Interactions**
+### **Animations & Interactions**
 
 - Smooth entrance animations with staggered effects
 - Hover states and micro-interactions on all elements
@@ -136,7 +136,7 @@ src/
 - Interactive chart bars with growth animations
 - Rotating icons and morphing buttons
 
-### 📱 **Responsive Features**
+### **Responsive Features**
 
 - Mobile-first approach with breakpoint-specific layouts
 - Collapsible sidebar with smooth slide animations
@@ -144,7 +144,7 @@ src/
 - Horizontal scrolling for tables on mobile
 - Adaptive grid layouts for different screen sizes
 
-### 🧩 **Component Architecture**
+### **Component Architecture**
 
 - Modular and reusable component structure
 - TypeScript for type safety and better DX
